@@ -180,6 +180,11 @@ void parse_path_and_query(char *raw, http_request *request)
 
     if(raw == NULL)
     {
+        free(request->query);
+        free(request->method);
+        free(request->path);
+        free(request->ip);
+
         return;
     }
 

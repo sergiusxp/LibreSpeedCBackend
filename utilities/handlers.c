@@ -26,6 +26,10 @@ void *connection_handler(void *arguments)
 			{
 				tot = 0;
 
+				free(buffer);
+				free(req_received);
+				free(req_received_body);
+
 				break;
 			}
 
