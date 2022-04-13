@@ -1,6 +1,6 @@
 # LibreSpeedCBackend
 Thanks for using my LibreSpeed C Backend project! It is born as a separate backend for [LibreSpeed](https://librespeed.org), a speed test created and maintened by [Federico Dossena](https://fdossena.com).
-It has been developed as an University project. If you want to take a look at the official document I presented to my teacher, please click here.
+It has been developed as an University project. If you want to take a look at the official document I presented to my teacher, [please click here](https://speedtest.sergiomeloni.com/report.pdf).
 
 # Local experience
 
